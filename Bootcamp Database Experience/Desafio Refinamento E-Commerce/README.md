@@ -7,7 +7,9 @@ Entregando atividade, com os refinamentos solicitados:
 * Entrega – Possui status e código de rastreio;
 
 <h1>Antes</h1>
-![](E-Commerce_Antes_do_Refinamento.png)
+
+![Antes](E-Commerce_Antes_do_Refinamento.png)
 
 <h1>Depois</h1>
-![](Refinamento_E-Commerce.png)
+
+![Depois](Refinamento_E-Commerce.png)
