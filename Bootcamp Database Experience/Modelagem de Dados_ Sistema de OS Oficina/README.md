@@ -16,4 +16,4 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 
 <h2>Resultado:</h2>
   
-![](Modelo de Dados Oficina.png)
+![resultado](Modelo de Dados Oficina.png)
