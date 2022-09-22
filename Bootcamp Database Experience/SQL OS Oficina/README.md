@@ -49,8 +49,5 @@ desc ordemdeservico;
     
 ```
 ![Resultado](inner-join-1.png)
-<<<<<<< HEAD
+
 <h3>Dados gerados pelo site "Mockaroo"</h3>
-=======
-<h3>Dados gerados pelo site "Mockaroo"</h3>
->>>>>>> c8cd8147ad2e4ff5fa23573c23478bf18ec36ad1
