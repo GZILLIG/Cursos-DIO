@@ -48,5 +48,5 @@ desc ordemdeservico;
 		ON o.mecanico_idMecanicos = m.idMecanicos;
     
 ```
-![Resultado da query](inner-join 1.png "Resultado")
+![Resultado](inner-join-1.png)
 <h3>Dados gerados pelo site "Mockaroo"</h3>
