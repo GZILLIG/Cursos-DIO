@@ -1,5 +1,7 @@
 # Bancos Relacionais e Não Relacionais
 
+*Autor: Gabriel Zillig*
+
 Atualmente existem basicamente esses "times" de banco de dados. Muito resumidamente, um tem uma estrutura muito bem definida, e outro que se adapta e vai crescendo à medida que a informação é adicionada.
 
 Mas como pode um banco de dados não ter estrutura? Como vou encontrar essa informação depois?

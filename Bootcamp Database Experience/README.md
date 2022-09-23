@@ -25,3 +25,7 @@ Baseado no modelo ER apresentado no primeiro desafio, o desafio foi criar o BD e
 
 <p>Este foi o desafio onde mais tempo foi dedicado. Assim com o desafio anterior, foi realizada a criação de um DB em MySQL, porém baseado no modelo ER criado do zero para o sistema de OS de uma oficina mecânica.</p>
 Foi utilizado o site Mockaroo para gerar dados aleatório que simulassem a carga do banco, assim permitindo a realização de diversas consultas complexas.
+
+* [Anotações - Diferenças entre bancos SQl e NoSQl](/Bootcamp%20Database%20Experience/Anotacoes%20-%20BD%20Relacional%20vs%20Nao-Relacional.md)
+
+Pequeno artigo (de minha autoria) para o público leigo, sobre as diferenças entre banco de dados relacional e relacional.
